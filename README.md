@@ -41,18 +41,26 @@ _What did your research find?_
 
 - There is a strong positive relationship and correlation between user_activity_2 feature and our target feature orders.
   <p align="left">
-  <img src="images/capstone_img3.png" width="1800">
+  <img src="images/capstone_img3.png" width="900">
+</p>
+
+- The orders over time follow slightly different trajectories based on the warehouse.
+  <p align="left">
+  <img src="images/capstone_img7.png" width="900">
+</p>
+  <p align="left">
+  <img src="images/capstone_img8.png" width="900">
 </p>
 
 - We can see 2D clusters using user_activity_1 and user_activity_2. We can also see 2D clusters with orders and user_activity_1 features. If we combine user_activity_1, user_activity_2, and orders, then we can observe 3D clusters
 <p align="left">
-  <img src="images/capstone_img4.png" width="1800">
+  <img src="images/capstone_img4.png" width="900">
 </p>
 <p align="left">
-  <img src="images/capstone_img5.png" width="1800">
+  <img src="images/capstone_img5.png" width="900">
 </p>
 <p align="left">
-  <img src="images/capstone_img6.png" width="1800">
+  <img src="images/capstone_img6.png" width="900">
 </p>
 
 - Shutdown, mini_shutdown, blackout, and frankfurt_shutdown are rare occurences. Snow and precipitation and holiday-related variables occur seasonally.
