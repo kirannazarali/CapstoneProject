@@ -3,25 +3,26 @@
 **Author** Kiran Nazarali
 
 #### Executive summary
+This project investigates whether historical order patterns can be used to accurately forecast future demand for Rohlik’s e-grocery services. Using exploratory analysis, feature engineering, and a mix of regression and time-series models, the goal is to build a reliable forecasting pipeline that improves operational planning, reduces waste, and enhances supply-chain efficiency.
 
 #### Rationale
-Why should anyone care about this question?
+_Why should anyone care about this question?_
 Accurate demand forecasting reduces inventory waste, prevents stockouts, and improves operational efficiency. Accurate order forecasts are crucial for planning processes, as they impact workforce allocation, delivery logistics, inventory management, and overall supply chain efficiency. By exploring patterns in historical orders, I aim to predict future demand more reliably, helping optimize operations and minimize waste.
 
 #### Research Question
-What are you trying to answer? 
+_What are you trying to answer?_
 The research question I intend to answer is: Can historical order data be used to accurately predict future orders for Rohlik’s e-grocery services? 
 
 #### Data Sources
-What data will you use to answer you question? 
+_What data will you use to answer you question?_ 
 I will use the historical order data provided in the Rohlik Orders Forecasting Challenge on Kaggle link: https://www.kaggle.com/competitions/rohlik-orders-forecasting-challenge/data
 
 #### Methodology
-What methods are you using to answer the question?
+_What methods are you using to answer the question?_
 The analysis will begin with exploratory data analysis (EDA). I will use feature engineering to create relevant predictors. I plan to use Linear Regression and Polynomial Regression to capture baseline trends, as well as ARIMA and SARIMAX for time-series forecasting. GridSearchCV will optimize model parameters to identify the best-performing approach.
 
 #### Results
-What did your research find?
+_What did your research find?_
 #### EDA Findings
 - We have 2 datasets for training: train_orders_data and train_calendar. 
     - All 7340 data points in the train_orders_data are also in the train_calendar.
@@ -40,7 +41,7 @@ What did your research find?
 
 
 #### Next steps
-What suggestions do you have for next steps?
+_What suggestions do you have for next steps?_
 The next steps will include feature engineering with Linear Regression and Polynomial Regression. I will also explore next ARIMA and SARIMAX for time-series forecasting GridSearchCV will optimize model parameters to identify the best-performing approach.
 
 #### Outline of project
