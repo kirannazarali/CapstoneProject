@@ -60,7 +60,7 @@ _What did your research find?_
   <img src="images/capstone_img5.png" width="900">
 </p>
 <p align="left">
-  <img src="images/capstone_img6.png" width="900">
+  <img src="images/capstone_img6.png">
 </p>
 
 - Shutdown, mini_shutdown, blackout, and frankfurt_shutdown are rare occurences. Snow and precipitation and holiday-related variables occur seasonally.
