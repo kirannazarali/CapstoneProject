@@ -66,8 +66,7 @@ _What did your research find?_
 - Shutdown, mini_shutdown, blackout, and frankfurt_shutdown are rare occurences. Snow and precipitation and holiday-related variables occur seasonally.
 - The final test data set includes fewer features than in the provided train_orders_data and train_calendar.
 
-**Baseline Model:** A baseline linear regression model to predict the next 60 days orders had a performance of 57% accuracy. 
-
+**Baseline Model:** A baseline linear regression model to predict the next 60 days orders had a performance of 57% accuracy. This is not much better than random. This shows that a different approach such as time series analysis would better suit this problem. I am using the accuracy metric because our objective is to obtain accurate forecasts. 
 
 #### Next steps
 _What suggestions do you have for next steps?_
