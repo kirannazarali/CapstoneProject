@@ -32,12 +32,33 @@ _What did your research find?_
 
 - There are 5 warehouses Brno_1, Budapest_1,Frankfurt_1	0, Munich_1	0, Prague_1, Prague_2, and Prague_3. The Munich_1 and Frankfurt_1 do not have as many holidays as the other warehouses.
 
+<p align="right">
+  <img src="images/capstone_img1.png" width="700">
+</p>
+<p align="left">
+  <img src="images/capstone_img2.png" width="1800">
+</p>
+
 - There is a strong positive relationship and correlation between user_activity_2 feature and our target feature orders.
+  <p align="left">
+  <img src="images/capstone_img3.png" width="1800">
+</p>
 
 - We can see 2D clusters using user_activity_1 and user_activity_2. We can also see 2D clusters with orders and user_activity_1 features. If we combine user_activity_1, user_activity_2, and orders, then we can observe 3D clusters
-
+<p align="left">
+  <img src="images/capstone_img4.png" width="1800">
+</p>
+<p align="left">
+  <img src="images/capstone_img5.png" width="1800">
+</p>
+<p align="left">
+  <img src="images/capstone_img6.png" width="1800">
+</p>
 
 - Shutdown, mini_shutdown, blackout, and frankfurt_shutdown are rare occurences. Snow and precipitation and holiday-related variables occur seasonally.
+- The final test data set includes fewer features than in the provided train_orders_data and train_calendar.
+
+**Baseline Model:** A baseline linear regression model to predict the next 60 days orders had a performance of 57% accuracy. 
 
 
 #### Next steps
