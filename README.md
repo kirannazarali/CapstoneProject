@@ -145,9 +145,9 @@ _What suggestions do you have for next steps?_
 
 #### Outline of project
 
-- [Link to notebook 1](https://drive.google.com/file/d/1uw7RHTfkNbj5KGzMwynhLgRPwwhd0LsA/view?usp=sharing)
-- [Link to notebook 2]([https://drive.google.com/file/d/1uw7RHTfkNbj5KGzMwynhLgRPwwhd0LsA/view?usp=sharing](https://colab.research.google.com/drive/11VpUX4vJPWNw-Kcf8aMcJDFss7xzfwvB?usp=sharing))
-- [Link to notebook 3]([https://drive.google.com/file/d/1uw7RHTfkNbj5KGzMwynhLgRPwwhd0LsA/view?usp=sharing](https://colab.research.google.com/drive/1VdFY0oYF53efa32cIdy77IUsGwv9jzvf?usp=sharing))
+- [Link to EDA notebook](https://drive.google.com/file/d/1uw7RHTfkNbj5KGzMwynhLgRPwwhd0LsA/view?usp=sharing)
+- [Link to Initial Models notebook](https://drive.google.com/file/d/1uw7RHTfkNbj5KGzMwynhLgRPwwhd0LsA/view?usp=sharing)
+- [Link to Improved Models notebook](https://drive.google.com/file/d/1uw7RHTfkNbj5KGzMwynhLgRPwwhd0LsA/view?usp=sharing)
 
 
 ##### Contact and Further Information
