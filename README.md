@@ -5,7 +5,7 @@
 #### Executive summary
 This project evaluates whether historical order data can be used to reliably forecast future demand for Rohlik’s e-grocery operations. Accurate demand forecasting is critical for Rohlik, as even small forecast errors can lead to inventory waste, stockouts, inefficient staffing, and higher delivery costs.
 
-Using historical order patterns across seven warehouses, I built and compared multiple forecasting approaches, including regression models and time-series methods. The analysis shows that demand is highly predictable when daily and weekly seasonality is explicitly modeled. Seasonal time-series models—particularly SARIMAX—consistently outperformed non-seasonal and purely machine-learning approaches.
+Using historical order patterns across seven warehouses, I built and compared multiple forecasting approaches, including regression models and time-series methods. The analysis shows that demand is highly predictable when daily and weekly seasonality is explicitly modeled. Seasonal time-series models particularly SARIMAX consistently outperformed non-seasonal and purely machine-learning approaches.
 
 The final SARIMAX models reduced forecasting error to approximately 7% WAPE, demonstrating that historical order behavior alone provides strong signal for operational planning. These results suggest that Rohlik can meaningfully improve inventory planning, labor allocation, and delivery efficiency by adopting seasonality-aware forecasting models at the warehouse level.
 
