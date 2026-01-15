@@ -11,7 +11,7 @@ The final SARIMAX models reduced forecasting error to approximately 7% WAPE, dem
 
 #### Rationale
 _Why should anyone care about this question?_
-Demand forecasting directly impacts Rohlik’s core operations. Over-forecasting leads to excess inventory, food waste, and unnecessary labor costs, while under-forecasting results in stockouts, delayed deliveries, and poor customer experience. Because Rohlik operates on thin margins and high delivery volumes, improving forecast accuracy—even by a few percentage points—can translate into significant cost savings and service improvements.
+Demand forecasting directly impacts Rohlik’s core operations. Over-forecasting leads to excess inventory, food waste, and unnecessary labor costs, while under-forecasting results in stockouts, delayed deliveries, and poor customer experience. Because Rohlik operates on thin margins and high delivery volumes, improving forecast accuracy, even by a few percentage points, can translate into significant cost savings and service improvements.
 
 This project focuses on understanding whether historical order data alone can support accurate forecasts and which modeling approaches best align with Rohlik’s operational needs
 
