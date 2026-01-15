@@ -104,7 +104,7 @@ Among the initial models, **SARIMA** outperformed alternatives, demonstrating th
 
 ### Improved Model Performance
 
-Following hyperparameter tuning, feature refinement, and warehouse-level model separation, performance improved substantially:
+Following hyperparameter tuning, feature refinement, and warehouse-level model separation, performance of SARIMAX improved:
 
 | Model | Mean RMSE | Mean WAPE (%) |
 |------|-----------|----------------|
